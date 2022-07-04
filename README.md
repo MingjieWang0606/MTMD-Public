@@ -4,5 +4,6 @@ Machine learning models are shown to be prospective in stock trend forecasting. 
 
 
 ### Acknowledgements
-Special thanks to Zhang Mingze,Tian Junxi and LiTingXin for the part code and ChenFeng for the discussion!  
+Special thanks to my teamer Li TingXin, Zhang Mingze and Tian Junxi for code and Weijia Jia, Chen Feng and Tang Zhiqing for the review!  
 Thanks for the clean and efficient [HIST](https://github.com/Wentao-Xu/HIST) code.  
+
