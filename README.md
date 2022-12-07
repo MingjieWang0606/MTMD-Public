@@ -108,6 +108,8 @@ python learn.py --model_name Transformer --data_set csi300 --hidden_size 32 --nu
 
 * ALSTM+TRA 
 
-	We reproduce the ALSTM+TRA with its [source code](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA).
+We reproduce the ALSTM+TRA with its [source code](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA).
 
-
+### Acknowledgements
+Special thanks to ChenFeng, Zhang Mingze,Tian Junxi and LiTingXin for the their help and discussion!  
+Thanks for the clean and efficient [HIST](https://github.com/Wentao-Xu/HIST) code.  
