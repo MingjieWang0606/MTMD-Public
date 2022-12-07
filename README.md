@@ -1,5 +1,5 @@
 # MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting
-The implementation of the paper "MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting".
+The official implementation of the paper "MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting".
 ![image](https://i.ibb.co/5MFPqTJ/12.png)
 
 ## Environment
