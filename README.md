@@ -15,7 +15,8 @@ The implementation of the paper "MTMD: Multi-Scale Temporal Memory Learning and 
 	# Download the stock features of Alpha360 from Qlib
 	python scripts/get_data.py qlib_data --target_dir ~/.qlib/qlib_data/cn_data --region cn --version v2
 	```
-4. Please download the [concept matrix](https://github.com/Wentao-Xu/HIST/tree/main/data), which is provided by [tushare](https://github.com/Wentao-Xu/HIST/issues/21).
+4. Please download the [concept matrix](https://github.com/Wentao-Xu/HIST/tree/main/data), which is provided by [tushare](https://tushare.pro/document/2?doc_id=81).
+5. Please put the concept data and stock data in the new' data' folder.
 
 ## Reproduce the stock trend forecasting results
 ![image](https://i.ibb.co/X7CVp2v/res.png)
