@@ -332,7 +332,7 @@ def main(args):
         stop_round = 0
         best_param = copy.deepcopy(model.state_dict())
         params_list = collections.deque(maxlen=args.smooth_steps)
-        m_items=torch.load("m_items.bin.r1.e44")
+        #m_items=torch.load("m_items.bin.r1.e44")
         for epoch in range(args.n_epochs):
             pprint('Running', times,'Epoch:', epoch)
 
