@@ -114,3 +114,16 @@ We reproduce the ALSTM+TRA with its [source code](https://github.com/microsoft/q
 ### Acknowledgements
 Special thanks to ChenFeng, Zhang Mingze,Tian Junxi and LiTingXin for the their help and discussion!  
 Thanks for the clean and efficient [HIST](https://github.com/Wentao-Xu/HIST) code.  
+
+
+## Citation
+Please cite the following paper if you use this code in your work.
+```
+@article{wang2022mtmd,
+  title={MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting},
+  author={Mingjie Wang and Mingze Zhang and Jianxiong Guo and Weijia Jia},
+  journal={arXiv preprint arXiv:2212.08656},
+  year={2022}
+}
+```
+
