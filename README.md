@@ -121,7 +121,7 @@ Please cite the following paper if you use this code in your work.
 ```
 @article{wang2022mtmd,
   title={MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting},
-  author={Mingjie Wang and Mingze Zhang and Jianxiong Guo and Weijia Jia},
+  author={Mingjie Wang and Juanxi Tian and Mingze Zhang and Jianxiong Guo and Weijia Jia},
   journal={arXiv preprint arXiv:2212.08656},
   year={2022}
 }
