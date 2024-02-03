@@ -2,7 +2,7 @@
 The official implementation of the paper "[MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting](https://arxiv.org/abs/2212.08656)".
 ![image](https://i.ibb.co/5MFPqTJ/12.png)
 
-Good News! We have established new code in the QLIB library, which allows you to test MTMD with dozens of models and larger datasets simultaneously! And excitingly, MTMD remains the SOTA (State Of The Art) model. Please check [here](https://github.com/tianshijing/qlib/blob/main/examples/benchmarks/README.md)! 
+🎺🎺🎺 Good News! We have established new code in the QLIB library, which allows you to test MTMD with dozens of models and larger datasets simultaneously! And excitingly, MTMD remains the SOTA (State Of The Art) model. Please check [here](https://github.com/tianshijing/qlib/blob/main/examples/benchmarks/README.md)! 
 
 ## Environment
 1. Install python3.7, 3.8 or 3.9. 
@@ -21,11 +21,8 @@ Good News! We have established new code in the QLIB library, which allows you to
 4. Please download the [concept matrix](https://github.com/Wentao-Xu/HIST/tree/main/data), which is provided by [tushare](https://tushare.pro/document/2?doc_id=81).
 5. Please put the concept data and stock data in the new' data' folder.
 
-## Reproduce the stock trend forecasting results
-This repo reusults:
-![image](https://i.ibb.co/X7CVp2v/res.png)
 
-The result in qlib:
+## The result in qlib:
 
 | Model Name                                | Dataset  | IC          | ICIR        | Rank IC     | Rank ICIR   | Annualized Return | Information Ratio | Max Drawdown |
 |-------------------------------------------|----------|-------------|-------------|-------------|-------------|-------------------|-------------------|--------------|
@@ -53,11 +50,16 @@ The result in qlib:
 | MTMD(Mingjie Wang, et al.)                | Alpha360 | 0.0538±0.00 | 0.3849±0.01 | 0.0672±0.00 | 0.4656±0.01 | 0.1022±0.02       | 1.4031±0.26       | -0.0664±0.01 |
 
 
+
+## Reproduce the stock trend forecasting results
+![image](https://i.ibb.co/X7CVp2v/res.png)
+
 ```
 git clone https://github.com/MingjieWang0606/MTMD-Public.git
 cd MTMD-Public
 mkdir output
 ```
+
 ### Reproduce our MTMD framework
 ```
 # CSI 100
