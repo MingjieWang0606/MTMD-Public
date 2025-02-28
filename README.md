@@ -1,8 +1,10 @@
 # MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting
-The official implementation of the paper "[MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting](https://arxiv.org/abs/2212.08656)".
+The official implementation of the paper "[MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting](https://ieeexplore.ieee.org/document/10906481/)".
 ![image](https://i.ibb.co/5MFPqTJ/12.png)
 
 🎺🎺🎺 Good News! We have established new code in the QLIB library, which allows you to test MTMD with dozens of models and larger datasets simultaneously! And excitingly, MTMD remains the SOTA (State Of The Art) model. Please check [here](https://github.com/tianshijing/qlib/blob/main/examples/benchmarks/README.md)! 
+
+🔈🔈🔈 Good News! We are thrilled to announce that our article has been officially published in IEEE Transactions on Emerging Topics in Computational Intelligence.
 
 ## Environment
 1. Install python3.7, 3.8 or 3.9. 
